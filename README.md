@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-Edda is a Service to track changes in your cloud deployments.
+Edda is a Service to track changes in your cloud deployments. Testing change
 
 ## DETAILS
 
